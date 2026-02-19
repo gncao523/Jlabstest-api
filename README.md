@@ -63,7 +63,3 @@ Login with email and password.
 }
 ```
 
-## Prerequisites
-
-- Node.js 18+
-- MongoDB (local or Atlas)
